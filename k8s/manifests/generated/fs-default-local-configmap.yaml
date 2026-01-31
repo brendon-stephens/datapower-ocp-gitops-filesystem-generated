@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: default-local
+binaryData:
+  default-local.tar.gz: H4sIAAAAAAAAA+3RT2vCMBgG8J79FCGnTVjT9C/KKn6A3bbDrqGNU0jTksTVgh9+1SrTgeyiyNjzu4S3fd8k7VPKhVgrx1RdCMW8mwh6WZLsVp4l/HQ98njCoyxKszCLvIBHYRh4JLnNdc6trROGEM+stZbmct9v7/+o8iz/VSm1W7nO31h1vTN2AadxfDH/KE5/5J+kQeyR4HpXuOyf5//cJz21rlPSLqV05FMau6p1TrkfULKplLbTviWnS+eaKWNt2/pt5Nfmg/HJZMLeX1/YmxHaLmpT0dmIkP2OTlaNEk6SSrhimVNdl/LhcTsf71sOTUXddEN5eCCaRnVPx1lLrFSycDmdj7fDBpQdxtnp/FAdx2ajof7+qNno3n8ZAAAAAAAAAAAAAAAAAAAAAOA2vgC8ChBLACgAAA==
